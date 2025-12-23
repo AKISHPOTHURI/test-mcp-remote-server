@@ -1,0 +1,30 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+
+# Temporary files
+*.swp
+*.tmp
+*.log
+.env # Environment variables
+
+# IDE-specific files (customize as needed)
+.idea/ # PyCharm
+.vscode/ # VS Code
+
+# Virtual environment
+venv/
+env/
+# or a specific name, e.g.
+# .venv/ 
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+
+# OS-specific files
+.DS_Store # macOS
+thumbs.db # Windows
